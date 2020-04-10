@@ -1,0 +1,17 @@
+{
+  "name": "mock-photo-share-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KyungOhKim/mock-photo-share-api",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
